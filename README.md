@@ -1,5 +1,6 @@
 # Registration-Form-Validation
 
+#registration form using validation in html
 <!DOCTYPE html>
 <html>
   <head><title>Registration Form Validation</title></head>
@@ -89,4 +90,5 @@
           }
         }
       }
+</html>
     
