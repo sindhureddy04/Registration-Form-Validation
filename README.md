@@ -1,6 +1,5 @@
 # Registration-Form-Validation
 
-
 <!DOCTYPE html>
 <html>
   <head><title>Registration Form Validation</title></head>
